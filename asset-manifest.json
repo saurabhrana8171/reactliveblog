@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactliveblog/static/css/main.89787f66.chunk.css",
+    "main.js": "/reactliveblog/static/js/main.2093c2ce.chunk.js",
+    "main.js.map": "/reactliveblog/static/js/main.2093c2ce.chunk.js.map",
+    "runtime-main.js": "/reactliveblog/static/js/runtime-main.bc6f97bd.js",
+    "runtime-main.js.map": "/reactliveblog/static/js/runtime-main.bc6f97bd.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/reactliveblog/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.13a835e8.chunk.js": "/reactliveblog/static/js/2.13a835e8.chunk.js",
+    "static/js/2.13a835e8.chunk.js.map": "/reactliveblog/static/js/2.13a835e8.chunk.js.map",
+    "index.html": "/reactliveblog/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/reactliveblog/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.89787f66.chunk.css.map": "/reactliveblog/static/css/main.89787f66.chunk.css.map",
+    "static/js/2.13a835e8.chunk.js.LICENSE.txt": "/reactliveblog/static/js/2.13a835e8.chunk.js.LICENSE.txt",
+    "static/media/2.60da4c6c.jpg": "/reactliveblog/static/media/2.60da4c6c.jpg",
+    "static/media/about.5195360b.jpg": "/reactliveblog/static/media/about.5195360b.jpg",
+    "static/media/android.59f9f638.jpg": "/reactliveblog/static/media/android.59f9f638.jpg",
+    "static/media/app.4c967868.jpg": "/reactliveblog/static/media/app.4c967868.jpg",
+    "static/media/digital.183cdf86.jpg": "/reactliveblog/static/media/digital.183cdf86.jpg",
+    "static/media/markiting.5b983c53.jpg": "/reactliveblog/static/media/markiting.5b983c53.jpg",
+    "static/media/software.df007df6.jpg": "/reactliveblog/static/media/software.df007df6.jpg",
+    "static/media/web.be07bc51.jpg": "/reactliveblog/static/media/web.be07bc51.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc6f97bd.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.13a835e8.chunk.js",
+    "static/css/main.89787f66.chunk.css",
+    "static/js/main.2093c2ce.chunk.js"
+  ]
+}
